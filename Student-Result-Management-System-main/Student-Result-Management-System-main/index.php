@@ -48,7 +48,7 @@ if($_SERVER["REQUEST_METHOD"] == "POST"){
 
 <body>
     <nav>
-      College of Engineering Pune
+      Vivekanada Institute of Technology
     </nav>
 
     <div id="f2">
